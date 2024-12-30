@@ -95,7 +95,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'django_shopkpop',  
         'USER': 'root',  
-        'PASSWORD': '',  
+        'PASSWORD': 'vuthuan',  
         'HOST': '127.0.0.1',  
         'PORT': '3306',  
         'OPTIONS': {  

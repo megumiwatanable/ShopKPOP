@@ -1,4 +1,3 @@
-from turtle import back
 from django.db import models
 from customer.models import KhachHang
 from product.models import SanPham, MauSac
